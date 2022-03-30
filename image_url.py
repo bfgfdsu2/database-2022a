@@ -1,0 +1,21 @@
+IMAGE_URL_LIST = [
+'https://cdn.pixabay.com/photo/2012/11/28/11/28/rocket-launch-67723__340.jpg',
+'https://cdn.pixabay.com/photo/2012/11/28/10/35/rocket-launch-67646__340.jpg',
+'https://cdn.pixabay.com/photo/2014/09/11/12/45/spacecraft-441708__340.jpg',
+'https://cdn.pixabay.com/photo/2010/12/01/space-shuttle-774__340.jpg', 
+'https://image.shutterstock.com/image-photo/new-ship-flies-another-planet-600w-1574090395.jpg',
+'https://cdn.stocksnap.io/img-thumbs/280h/rocket-launch_7V1JEO2YXQ.jpg', 
+'https://cdn.stocksnap.io/img-thumbs/280h/space-rocket_M2IXWNZDKT.jpg',
+'https://cdn.stocksnap.io/img-thumbs/280h/space-spaceship_SQBE2C5NWT.jpg',
+'https://cdn.stocksnap.io/img-thumbs/280h/rocket-liftoff_5KKVVG3YLS.jpg',
+'https://cdn.stocksnap.io/img-thumbs/280h/lighttrail-rocket_HOVY3GFLMC.jpg',
+'https://cdn.stocksnap.io/img-thumbs/280h/space-spaceship_SQBE2C5NWT.jpg',
+'https://cdn.stocksnap.io/img-thumbs/280h/rocket-smoke_ODUU0AZW4E.jpg',
+'https://cdn.stocksnap.io/img-thumbs/280h/space-rocket_JXKQNCFYCT.jpg',
+'https://cdn.stocksnap.io/img-thumbs/280h/rockets-rocketship_1WKW24WDX7.jpg',
+'https://cdn.stocksnap.io/img-thumbs/280h/rockets-rocketship_00U6BMTEN6.jpg',
+'https://cdn.stocksnap.io/img-thumbs/280h/rocketship-spaceship_IETQP9ZADV.jpg',
+'https://images.pexels.com/photos/355906/pexels-photo-355906.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
+'https://images.pexels.com/photos/2159/flight-sky-earth-space.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500',
+'https://images.pexels.com/photos/73871/rocket-launch-rocket-take-off-nasa-73871.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500'
+]
